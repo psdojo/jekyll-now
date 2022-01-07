@@ -1,6 +1,7 @@
-#
-layout: title
-post : Hiiiii
+---
+layout: post
+title: You're up and running!
+---
 
 
  Superhero anime My Hero Academia is set to return for its sixth season next fall!
